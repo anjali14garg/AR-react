@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sAR-react/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/sAR-react/static/js/main.ac13c05e.chunk.js",
+    "main.js.map": "/sAR-react/static/js/main.ac13c05e.chunk.js.map",
+    "runtime-main.js": "/sAR-react/static/js/runtime-main.9beb197e.js",
+    "runtime-main.js.map": "/sAR-react/static/js/runtime-main.9beb197e.js.map",
+    "static/js/2.d0eb047a.chunk.js": "/sAR-react/static/js/2.d0eb047a.chunk.js",
+    "static/js/2.d0eb047a.chunk.js.map": "/sAR-react/static/js/2.d0eb047a.chunk.js.map",
+    "static/js/3.a6e4d959.chunk.js": "/sAR-react/static/js/3.a6e4d959.chunk.js",
+    "static/js/3.a6e4d959.chunk.js.map": "/sAR-react/static/js/3.a6e4d959.chunk.js.map",
+    "index.html": "/sAR-react/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/sAR-react/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d0eb047a.chunk.js.LICENSE.txt": "/sAR-react/static/js/2.d0eb047a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sAR-react/static/media/logo.6ce24c58.svg",
+    "static/media/outputFile.a86f6bc6.usdz": "/sAR-react/static/media/outputFile.a86f6bc6.usdz"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9beb197e.js",
+    "static/js/2.d0eb047a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ac13c05e.chunk.js"
+  ]
+}
